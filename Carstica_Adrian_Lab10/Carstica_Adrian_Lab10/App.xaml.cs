@@ -30,16 +30,6 @@ namespace Carstica_Adrian_Lab10
             
         }
 
-        protected override void OnStart()
-        {
-        }
-
-        protected override void OnSleep()
-        {
-        }
-
-        protected override void OnResume()
-        {
-        }
+        
     }
 }
